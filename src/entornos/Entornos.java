@@ -1,4 +1,6 @@
 package entornos;
+	static final int JUAN_MAX = 10;
+	static final int JUAN_MIN = 20
 
 public class Entornos {
 	private String nombre;
