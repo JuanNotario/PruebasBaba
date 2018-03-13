@@ -10,8 +10,6 @@ public class Entornos {
 	private int peso;
 	private double altura;
 	
-	public Persona() {}
-	
 	
 	public Persona(String nombre, int edad, String dni, char sexo) {
 		this.nombre = nombre;
